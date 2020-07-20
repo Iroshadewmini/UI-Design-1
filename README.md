@@ -1,4 +1,4 @@
-# UI-Design-1
+# UI-Design-1- selling pal
 home and sign_in interfaces
           
           This is an Ui design for a selling_pal mobile app. I have design only two interfaces here, 
